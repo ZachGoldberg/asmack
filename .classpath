@@ -8,15 +8,16 @@
 	<classpathentry kind="src" path="smack/smack-core/src/main/resources/org.jivesoftware.smack"/>
 	<classpathentry kind="src" path="smack/smack-extensions/src/main/resources/org.jivesoftware.smackx"/>
 	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
-	<classpathentry kind="lib" path="lib/jxmpp-core-0.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jxmpp-core-0.1.0.jar"/>
 	<classpathentry kind="lib" path="lib/jstun.jar"/>
 	<classpathentry kind="lib" path="lib/xpp3-1.1.4c.jar"/>
 	<classpathentry kind="lib" path="lib/httpcore-4.1.4.jar"/>
 	<classpathentry kind="lib" path="lib/httpclient-4.1.3.jar"/>
 	<classpathentry kind="lib" path="/opt/android-sdks/platforms/android-18/android.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jxmpp-util-cache-0.1.0.jar"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
