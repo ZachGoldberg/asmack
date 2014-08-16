@@ -5,6 +5,8 @@
 	<classpathentry kind="src" path="smack/smack-extensions/src/main/java"/>
 	<classpathentry kind="src" path="smack/smack-android/src/main/java"/>
 	<classpathentry excluding="org/jivesoftware/smack/tcp/PacketWriterTest.java|org/jivesoftware/smack/tcp/RosterOfflineTest.java" kind="src" path="smack/smack-tcp"/>
+	<classpathentry kind="src" path="smack/smack-core/src/main/resources/org.jivesoftware.smack"/>
+	<classpathentry kind="src" path="smack/smack-extensions/src/main/resources/org.jivesoftware.smackx"/>
 	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
 	<classpathentry kind="lib" path="lib/jxmpp-core-0.1.0.jar"/>
 	<classpathentry kind="lib" path="lib/jstun.jar"/>
